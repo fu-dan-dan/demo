@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fudandan
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# demo
+>>>>>>> a6b7670c5feeee64e07ce81156bfdd179a93799f
